@@ -15,7 +15,7 @@
 >
 > docker build -t surina-whisper-web .
 > docker run -d -p 8080:80 --name whisper surina-whisper-web
-> 
+
 > [!IMPORTANT]
 > 
 > Then visit: http://localhost:8080
