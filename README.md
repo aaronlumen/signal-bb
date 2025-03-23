@@ -13,8 +13,9 @@
 > 🧰 To Build & Run:
 > Unzip and run the following commands in the project directory:
 >
->docker build -t surina-whisper-web .
+> docker build -t surina-whisper-web .
 > docker run -d -p 8080:80 --name whisper surina-whisper-web
 > 
-> [!TIP]
+> [!IMPORTANT]
+> 
 > Then visit: http://localhost:8080
