@@ -10,7 +10,7 @@
 >
 > Configures Apache + allows www-data to run signal-cli via sudo.
 
-> [!NOTE
+> [!NOTE]
 > 🧰 To Build & Run:
 > Unzip and run the following commands in the project directory:
 >
