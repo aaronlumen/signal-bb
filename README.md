@@ -3,8 +3,11 @@
 > Created to provide a safety mechanism against parental alienation due to
 > the financial incentives within the dedicated dockets for mass title iv-d enrollment that is happening behind the scenes
 > in this egregious and unauthorized expansion of the title iv-d program exploited for reimbursement grants provided for enforcement.
-```-------------------------------------------------------------------------------------------------------------------------------------```
+
+```-------------------------------------------------------------------------```
+
 > [!WARNING]
+> 
 > _©2025 COPYWRONG - ALL WRONGS RESERVED.  FEEL FREE TO STEAL, DUPLICATE AND DISTRIBUTE AS YOU THINK NECESSARY._
 > ## HAPPY MESSAGING!
 
