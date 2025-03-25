@@ -1,4 +1,13 @@
-### signal-bb
+### signal-bb by Aaron Surina - 
+> [!INFO]
+> Created to provide a safety mechanism against parental alienation due to
+> the financial incentives within the dedicated dockets for mass title iv-d enrollment that is happening behind the scenes
+> in this egregious and unauthorized expansion of the title iv-d program exploited for reimbursement grants provided for enforcement.
+```-------------------------------------------------------------------------------------------------------------------------------------```
+> [!WARNING]
+> _©2025 COPYWRONG - ALL WRONGS RESERVED.  FEEL FREE TO STEAL, DUPLICATE AND DISTRIBUTE AS YOU THINK NECESSARY._
+> ## HAPPY MESSAGING!
+
 > [!IMPORTANT]
 > Open Whisper systems signal bulletin board based off of the signal-cli package and open whisper systems secure messaging platform.
 
@@ -80,9 +89,9 @@
 ```        $signal_message_status = "Recipient and message cannot be empty."; ```
 ```    } ```
 ``` } ```
-```
 
- > [!INFO]
+
+> [!INFO]
 > 🛡️ Security Best Practices
 > Consider IP whitelisting or rate limiting if exposed on a public server.
 >
@@ -90,7 +99,7 @@
 >
 > Avoid storing raw numbers or sensitive data directly in HTML without proper escaping.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > 🧪 Final Test Steps
 >
 > Once the above updates are in place:
@@ -98,15 +107,13 @@
 > Restart your web server:
 >
 > ``` sudo systemctl restart apache2 (or nginx) ```
-
 > Log in via your browser with the passcode.
-
+>
 > Enter a test message and send it to a valid Signal number.
 
-> Check:
-
+> ## Check:
 > ``` tail -F -n 100 /tmp/signal_debug.log ``` for any error output.
-
+>
 > The recipient’s device for delivery.
 
 
@@ -119,4 +126,4 @@
  
 > [!IMPORTANT]
 > 
-> Then visit: http://localhost:8080
+> # Then visit: http://localhost:8080
